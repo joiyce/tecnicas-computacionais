@@ -1,1 +1,0 @@
-# tecnicas-computacionais
